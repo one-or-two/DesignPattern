@@ -1,0 +1,7 @@
+/01_Factory/bin
+/01_Factory/obj
+/01_Factory/Properties
+/_ReSharper.DesignPattern
+/*.user
+/*.suo
+/01_Factory/*.csproj
